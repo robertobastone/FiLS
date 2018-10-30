@@ -9,3 +9,6 @@ FiLS - FIbonacci List and Sum - is a Python script that can work in the followin
 1. October, 30 2018
    - minimally functioning code
  
+# Versions
+1. October, 30 2018
+   - two methods available ("fib" and "gold")
