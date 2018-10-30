@@ -1,7 +1,6 @@
 #Fibonacci sequence
 
 # author: Roberto Bastone
-# email: robertobastone93@gmail.com
 
 version = 1.0
 methods = "two"
