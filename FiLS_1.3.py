@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 # code
 
-print ">Welcome to the Fibonacci, Laws and Sunflowers (FiLS) version ", version 
+print ">Welcome to the Fibonacci, Law and Sunflowers (FiLS) version ", version 
 yes = {'Y','y'}
 no = {'N','n'}
 
@@ -91,14 +91,16 @@ while True:
          frame = 7                            # size of plot
          disc_florets = np.array(np.linspace(0,integer,integer+1))
          angular_separation = disc_florets * golden_angle
-         def sunflower(stelo,angolo):
-             x = disc_florets * np.cos(angular_separation)
-             y = disc_florets*np.sin(angular_separation)
+         def sunflower(dist,angle):
+             x = dist * np.cos(angle)
+             y = dist * np.sin(angle)
              plt.figure(figsize=(frame,frame))
              plt.scatter(x,y,color=sunflower_colour) 
+             plt.axis('off')
+             plt.tight_layout()
              plt.show()                
          sunflower(np.sqrt(disc_florets),angular_separation)               #sqrt for better visualization
-	 break
+         break
 	else:
 		print(">Error! Type a valide entry")
 		continue
