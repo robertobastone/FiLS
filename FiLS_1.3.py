@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 # code
 
-print ">Welcome to the Fibonacci List and Sum (FiLS) version ", version 
+print ">Welcome to the Fibonacci, Laws and Sunflowers (FiLS) version ", version 
 yes = {'Y','y'}
 no = {'N','n'}
 
