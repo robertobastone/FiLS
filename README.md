@@ -1,6 +1,6 @@
 # FiLS
 
-FiLS - FIbonacci List and Sum - is a Python script that can work in the following ways: 
+FiLS - FIbonacci Laws and Sunflowers- is a Python script that can work in the following ways: 
 1. prints a list of the first n terms of Fibonacci sequence;
 2. yields the sums of these first n terms;
 3. plots the ratio of adjacent terms;
