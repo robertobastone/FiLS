@@ -24,7 +24,7 @@ class FiLS:
 		self.SUM = 0
 		self.a = 1.
 		self.b = 1.
-		ratio = []
+		self.ratio = []
 		print( colored("Initializing... FIbonacci, Law and Sunflowers (FiLS) version " + str(version), 'blue') )
 		print( colored("(Author: " + author+')', 'blue') )
 		print( colored("For info - or anything else - please, feel free to reach me at " + email, 'blue') )
