@@ -1,6 +1,6 @@
 # FiLS
 
-FiLS - FIbonacci Laws and Sunflowers - is a Python script that can work in the following ways: 
+FiLS - FIbonacci Laws and Sunflowers - is a Python script that can work in the following ways:
 1. prints a list of the first n terms of Fibonacci sequence;
 2. yields the sums of these first n terms;
 3. plots the ratio of adjacent terms;
@@ -8,16 +8,22 @@ FiLS - FIbonacci Laws and Sunflowers - is a Python script that can work in the f
 
 # Milestones
 
-1. October, 30 2018
+1. October 30, 2018
    - minimally functioning code
-2. October, 31 2018
+2. October 31, 2018
    - uploaded first logo
- 
+3. September 09, 2019
+   - script compatible with Python 3 added
+
 # Versions
-## Version 1.0.0 (October, 30 2018)
+## Python 2
+### Version 1.00 (October 30, 2018)
    - two methods available ("fib" and "sum")
-## Version 1.0.1 (October, 30 2018)
+### Version 1.01 (October 30, 2018)
    - three methods available ("gold" added)
-   - explanation of the methods during code running 
-## Version 1.0.2 (October, 31 2018)
+   - explanation of the methods during code running
+### Version 1.02 (October 31, 2018)
    - four methods available ("sunflower" added)
+## Python 3
+### Version 1.02 (September 09, 2019)
+   - Python 3 script version issued from Python script version 1.02
