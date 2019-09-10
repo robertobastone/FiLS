@@ -27,3 +27,5 @@ FiLS - FIbonacci Laws and Sunflowers - is a Python script that can work in the f
 ## Python 3
 ### Version 1.02 (September 09, 2019)
    - Python 3 script version issued from Python script version 1.02
+### Version 1.03 (September 10, 2019)
+   - Script rewritten according to OOP
